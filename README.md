@@ -1,7 +1,4 @@
 # Ice Cream Ordering App 🍦
-A mobile application built with **Flutter** and **Dart** as part of my mobile development learning journey.
+A simple mobile application built with **Flutter** and **Dart** as part of my mobile development learning journey.
 
-## Features
-- User-friendly UI.
-- Ice cream flavor selection.
-- Simple order management.
+-This is a UI-focused project consisting of two main screens to demonstrate layout design and navigation in Flutter.
